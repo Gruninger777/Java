@@ -1,3 +1,4 @@
+/*Faça um programa que diz a hora de execução.*/
 package horadosistema;
 
 import java.util.Date;
