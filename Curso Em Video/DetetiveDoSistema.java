@@ -1,4 +1,4 @@
-/*Exercício 1: Detetive do Sistema
+/*Detetive do Sistema
 Objetivo: Criar um programa que mostre três informações:
 O nome do seu usuário no sistema.
 A versão do Java que está executando o programa.
