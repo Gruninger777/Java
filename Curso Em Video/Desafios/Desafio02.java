@@ -1,4 +1,3 @@
-
 package desafio02;
 
 import java.awt.GraphicsDevice;
