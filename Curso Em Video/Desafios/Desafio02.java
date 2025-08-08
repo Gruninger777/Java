@@ -1,3 +1,4 @@
+/*Faça um programa que diz qual a resolução da sua tela principal.*/
 package desafio02;
 
 import java.awt.GraphicsDevice;
